@@ -39,7 +39,7 @@ const About = () => {
                 <span className="block text-secondary">Champions</span>
               </h2>
               <p className="text-lg text-muted-foreground mb-6">
-                For over two decades, Elite Cricket Academy has been the premier destination for aspiring cricketers. 
+                For over two decades, demo has been the premier destination for aspiring cricketers. 
                 Our comprehensive training programs combine traditional cricket wisdom with modern sports science to 
                 develop well-rounded players.
               </p>

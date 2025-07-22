@@ -9,9 +9,9 @@ const Footer = () => {
           <div className="space-y-4">
             <div className="flex items-center space-x-2">
               <div className="w-10 h-10 bg-secondary rounded-full flex items-center justify-center">
-                <span className="text-secondary-foreground font-bold text-lg">CA</span>
+                <span className="text-secondary-foreground font-bold text-lg">D</span>
               </div>
-              <h3 className="text-2xl font-bold">Elite Cricket Academy</h3>
+              <h3 className="text-2xl font-bold">demo</h3>
             </div>
             <p className="text-primary-foreground/80">
               Transforming passionate cricketers into champions through expert coaching, 
@@ -71,7 +71,7 @@ const Footer = () => {
               </div>
               <div className="flex items-center space-x-2">
                 <Mail className="w-4 h-4 text-accent" />
-                <span className="text-primary-foreground/80 text-sm">info@elitecricket.com</span>
+                <span className="text-primary-foreground/80 text-sm">info@demo.com</span>
               </div>
             </div>
           </div>
@@ -80,7 +80,7 @@ const Footer = () => {
         {/* Bottom Bar */}
         <div className="border-t border-primary-foreground/20 mt-12 pt-8 flex flex-col md:flex-row justify-between items-center">
           <p className="text-primary-foreground/60 text-sm">
-            © 2024 Elite Cricket Academy. All rights reserved.
+            © 2024 demo. All rights reserved.
           </p>
           <div className="flex space-x-6 mt-4 md:mt-0">
             <a href="#" className="text-primary-foreground/60 hover:text-accent text-sm transition-colors">Privacy Policy</a>

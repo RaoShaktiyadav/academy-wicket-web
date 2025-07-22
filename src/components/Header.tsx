@@ -8,10 +8,10 @@ const Header = () => {
         {/* Logo */}
         <div className="flex items-center space-x-2">
           <div className="w-10 h-10 bg-gradient-hero rounded-full flex items-center justify-center">
-            <span className="text-primary-foreground font-bold text-lg">CA</span>
+            <span className="text-primary-foreground font-bold text-lg">D</span>
           </div>
           <div>
-            <h1 className="text-xl font-bold text-primary">Elite Cricket Academy</h1>
+            <h1 className="text-xl font-bold text-primary">demo</h1>
           </div>
         </div>
 
@@ -33,7 +33,7 @@ const Header = () => {
             </div>
             <div className="flex items-center space-x-1">
               <Mail className="w-4 h-4 text-primary" />
-              <span>info@elitecricket.com</span>
+              <span>info@demo.com</span>
             </div>
           </div>
           <Button variant="hero" size="sm">Join Academy</Button>

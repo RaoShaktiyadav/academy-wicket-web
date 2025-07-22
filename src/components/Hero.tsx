@@ -25,7 +25,7 @@ const Hero = () => {
             </span>
           </h1>
           <p className="text-xl md:text-2xl mb-8 text-primary-foreground/90 max-w-2xl mx-auto">
-            Join the elite cricket academy where champions are made. Professional coaching, world-class facilities, and a path to cricket excellence.
+            Join the demo cricket academy where champions are made. Professional coaching, world-class facilities, and a path to cricket excellence.
           </p>
           
           {/* CTA Buttons */}
